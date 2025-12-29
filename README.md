@@ -29,7 +29,9 @@ _Required_
 
 :light_blue_heart: Picom
 
-:blue_heart: OR - Change Rofi to another app launcher (dont forget to change launch.sh), change Eww to another sidebar widget option, change PulseAudio to your own volume control (dont forget to change volume.sh), Can disregard Picom entirely (creates transparency and glow effect) 
+:blue_heart: OR - Change Rofi to another app launcher (dont forget to change launch.sh), change Eww to another sidebar widget option, change PulseAudio to your own volume control, Can disregard Picom entirely (creates transparency and glow effect) 
 
 
-NOTE: Change pacman updates to use another terminal if you don't use Kitty. Add & Remove Modules to your liking. 
+NOTE: Change pacman updates module in config.ini to use another terminal if you don't use Kitty. Add & Remove Modules to your liking.  
+
+Comes in a blue theme, colors can be changed as well as icons (I'm using Nerd Font Icons). Additionally, many modules can be changed into internal modules instead of using scripts. Internal versions are included but commented out. If you want to use them, uncomment the internal option and delete or comment out the script version.
