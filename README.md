@@ -32,4 +32,4 @@ _Required_
 :blue_heart: OR - Change Rofi to another app launcher (dont forget to change launch.sh), change Eww to another sidebar widget option, change PulseAudio to your own volume control (dont forget to change volume.sh), Can disregard Picom entirely (creates transparency and glow effect) 
 
 
-NOTE: Change pacman updates to use another terminal if you don't use Kitty.
+NOTE: Change pacman updates to use another terminal if you don't use Kitty. Add & Remove Modules to your liking. 
